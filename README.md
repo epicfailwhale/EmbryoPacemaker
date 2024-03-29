@@ -1,5 +1,6 @@
 # EmbryoPacemaker
 Designing a Pacemaker to monitor and control the cardiac activity of a chicken embryo. Input recorded using an Arduino, stimulation delivered via pulse generator with triggers controlled by Arduino.
+Find out more [here](https://wiki.bme-paris.com/2024-project04/tiki-index.php).
 
 **ecg**: the Arduino script to set up the Arduino for acquisition of signal from embryo  
 **RealTimeProcessingClass**: python script with classes and methods to process, visualise signal and calculate HR in real time  
