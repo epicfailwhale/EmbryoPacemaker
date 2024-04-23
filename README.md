@@ -8,7 +8,7 @@ Find out more [here](https://wiki.bme-paris.com/2024-project04/tiki-index.php).
 **read_pulse_record**: saves input from Arduino into a csv  
 **real_time_processing**: 'serial plotter'-like visualiser. Acquire, filter and plot signal in real time.
 
-**example_ecg_stimulation**: Example of our results
+**example_recording**: Example of our results
 
 
 Techniques used: signal processing, Arduino
